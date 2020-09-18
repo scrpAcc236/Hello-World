@@ -1,2 +1,2 @@
 # Hello-World
-Beginer
+I am the beginner of Github.  Hope to advance it.
